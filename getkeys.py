@@ -14,6 +14,7 @@
 from pynput.keyboard import Key, Listener
 
 # defining function to print when key is pressed
+# I dont know why its not working on mac
 
 
 def on_press(key):
